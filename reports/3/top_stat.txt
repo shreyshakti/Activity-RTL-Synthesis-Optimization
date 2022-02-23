@@ -1,0 +1,30 @@
+
+13. Printing statistics.
+
+=== top ===
+
+   Number of wires:                 34
+   Number of wire bits:            100
+   Number of public wires:           7
+   Number of public wire bits:      73
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 54
+     AND2_X1                         1
+     AOI21_X2                        1
+     DFFRNQ_X1                      27
+     INV_X1                          1
+     NAND2_X1                        4
+     NAND2_X2                        2
+     NAND3_X1                        1
+     NAND4_X2                        1
+     NOR2_X1                         2
+     NOR2_X2                         1
+     OAI21_X2                        2
+     OR2_X1                          1
+     XNOR2_X1                        6
+     XOR2_X1                         4
+
+   Chip area for module '\top': 43.892736
+

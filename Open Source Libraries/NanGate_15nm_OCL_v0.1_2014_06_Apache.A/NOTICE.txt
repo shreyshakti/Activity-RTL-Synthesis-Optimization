@@ -1,0 +1,7 @@
+The Silvaco open-cell library is intended to be used for research and development organizations. It is not suitable nor intended for commercial development. Universities and Members of the Silicon Integration Initiative (Si2) may obtain a complete, up-to-date copy of the library at:
+
+http://www.si2.org
+
+For more information, visit Silvaco Inc., at:
+
+http://www.silvaco.com

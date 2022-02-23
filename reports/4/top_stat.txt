@@ -1,0 +1,19 @@
+
+13. Printing statistics.
+
+=== top ===
+
+   Number of wires:                  9
+   Number of wire bits:              9
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     DFFRNQ_X1                       1
+     XNOR2_X1                        2
+     XOR2_X1                         1
+
+   Chip area for module '\top': 2.605056
+
