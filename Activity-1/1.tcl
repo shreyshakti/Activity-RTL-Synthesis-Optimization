@@ -1,6 +1,9 @@
 read_liberty -lib NanGate_15nm_OCL_typical_conditional_nldm.lib
 read_verilog 1.v
 hierarchy -top top
+proc
+opt
+share -aggressive
 synth -top top -flatten
 opt -purge
 dfflibmap -liberty NanGate_15nm_OCL_typical_conditional_nldm.lib
